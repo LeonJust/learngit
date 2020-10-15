@@ -13,3 +13,4 @@ git commit -m "description"
 
 git cmd 出现end，q退出
 
+git log

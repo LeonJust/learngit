@@ -23,8 +23,14 @@ git reset --hard cb31
 
 git reflog
 
+
+//wrong before git add
 git checkout -- file
 
+//wrong after git add and before commit
 git reset HEAD <file>
+
+//wrong after git commit
+git reset --hard <_versiong_number_>
 
 //wrong code for demo

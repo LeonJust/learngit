@@ -26,3 +26,5 @@ git reflog
 git checkout -- file
 
 git reset HEAD <file>
+
+//wrong code for demo

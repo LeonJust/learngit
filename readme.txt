@@ -20,3 +20,9 @@ git log --pretty=oneline
 git reset --hard HEAD~
 
 git reset --hard cb31
+
+git reflog
+
+git checkout -- file
+
+git reset HEAD <file>

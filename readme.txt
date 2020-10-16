@@ -51,3 +51,10 @@ git push origin master
 git checkout -b dev
 
 git branch
+
+git checkout dev
+git checkout master
+
+git merge dev
+
+git breanch -d dev

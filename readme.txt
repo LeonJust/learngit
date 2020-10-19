@@ -62,3 +62,12 @@ git breanch -d dev
 git switch dev
 
 git switch -c <new branch name>
+
+//fix bug code
+
+git stash
+
+git stash list
+
+git stash apply/git stash drop
+git stash pop

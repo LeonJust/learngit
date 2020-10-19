@@ -71,3 +71,7 @@ git stash list
 
 git stash apply/git stash drop
 git stash pop
+
+git log --graph --pretty=oneline --abbrev-commit
+
+bug分支

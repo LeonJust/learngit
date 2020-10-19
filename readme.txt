@@ -75,3 +75,6 @@ git stash pop
 git log --graph --pretty=oneline --abbrev-commit
 
 bug分支
+git log --graph --pretty=oneline --abbrev-commit
+
+bug分支

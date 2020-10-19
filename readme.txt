@@ -58,3 +58,7 @@ git checkout master
 git merge dev
 
 git breanch -d dev
+
+git switch dev
+
+git switch -c <new branch name>
